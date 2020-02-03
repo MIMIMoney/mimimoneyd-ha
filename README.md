@@ -813,7 +813,7 @@ Gets a block hash by height.
 
 ```javascript
 {
-  "address": "TRTLv27NRnfaGLvxDuE1SfQt2zbvfEiTNJtFcBNZwUAAQYL1oxejK1c8PaCTCa61he99a31So9KNaQ4kGkKjjstwhyM2FqdwUyU",
+  "address": "Nsere27NRnfaGLvxDuE1SfQt2zbvfEiTNJtFcBNZwUAAQYL1oxejK1c8PaCTCa61he99a31So9KNaQ4kGkKjjstwhyM2FqdwUyU",
   "amount": 5000,
   "status": "OK"
 }
